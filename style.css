@@ -1,6 +1,6 @@
 
-body {
-  background-color:  DodgerBlue;
+body { 
+  background-color: DodgerBlue;
   color: yellow;
   font-family: Arial, sans-serif, Helvetica;
   Margin: 15% 5%
@@ -8,16 +8,18 @@ body {
 
 .Work-Header {
   text-transform: uppercase;
-  border-top: 2px solid black;
-  border-bottom: 2px solid black;
-  background-color: rgba(0,0,0,0.3)
+  border-top: 4px dotted black;
+  border-bottom: 6px double black;
+  background-color: rgba(0,0,0,0.3);
+  border-radius: 20px;
     
 }
 
 .Hobby-Header{
   text-align: center;
   text-transform: uppercase;
-  border-top: 5px solid purple;
-  border-bottom: 5px solid purple;
-  background-color: rgba(0,0,0,0.8)
+  border-top: 5px groove purple;
+  border-bottom: 5px ridge purple;
+  background-color: rgba(0,0,0,0.2);
+  border-radius: 100px;
 }
